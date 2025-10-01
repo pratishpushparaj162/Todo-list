@@ -6,8 +6,8 @@
   "author": "Salvatore Laisa <moebiusmania@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "npm run server & webpack -w",
-    "server": "http-server ./dist -s"
+  "start": "npm run server & webpack -w",
+  "server": "http-server ./dist -s"
   },
   "dependencies": {
     "babel-core": "^6.21.0",
