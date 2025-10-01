@@ -3,7 +3,7 @@ module.exports = {
   // Input & output
   entry: './src/index.js',
   output: {
-    filename: './dist/bundle.js'
+  filename: './dist/bundle.js'
   },
   module: {
     // Babel loader configuration
